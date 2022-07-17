@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\frontend",
-    "\\frontend\\src"
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\components\\Header",
+    "\\frontend\\src\\components\\NotificationButton",
+    "\\frontend\\src\\components\\SalesCard"
   ],
-  "SelectedNode": "\\frontend\\src\\index.css",
+  "SelectedNode": "\\frontend\\src\\components\\SalesCard\\index.tsx",
   "PreviewInSolutionExplorer": false
 }
