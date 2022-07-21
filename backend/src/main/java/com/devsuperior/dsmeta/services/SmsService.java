@@ -38,7 +38,7 @@ public class SmsService {
 		+ String.format("%.2f", sale.getAmount());
 		
 		Twilio.init(twilioSid, twilioKey);
-
+ 
 		PhoneNumber to = new PhoneNumber(twilioPhoneTo);
 		PhoneNumber from = new PhoneNumber(twilioPhoneFrom);
 
